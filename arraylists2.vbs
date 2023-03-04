@@ -23,3 +23,9 @@ list_odd.reverse()
 For each ele in list_odd 
 MsgBox ele 
 next 
+@@@@@@@@@@@@@@@@@@@@@
+list_odd.sort() 
+list_odd.reverse() 
+For each ele in list_odd 
+MsgBox ele 
+next 
